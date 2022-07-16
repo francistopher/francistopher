@@ -1,16 +1,25 @@
-### Hi there 👋
+# Christopher Francisco's Github
 
-<!--
-**francistopher/francistopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Academia
 
-Here are some ideas to get you started:
+- I'd be a fulltime dropout but gotta be the first to get a degree in my family
+- Intro to C is boring as hell bc it's online, it's basically tutorial hell
+- Professors suck, wonder if there's a way to replace the shitty ones 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Self Learning
+
+- C is going to come into play when communicating with microcontrollers
+- Swift is going to facilitate the ability of the user to communicate to microcontrollers
+
+### iOS
+
+- Need to Swiftify my Swift
+- Periodic Table Study Buddy needs some polishing
+
+### Machine Learning
+
+- Rock, Paper, Scissors, FU!
+
+## Mobile Development Freelancer
+
+- Got bored programming a guy's dream into reality, fuck their dream, gonna steal their idea
