@@ -3,6 +3,7 @@
 ## Academia
 
 - I'd be a fulltime dropout but gotta be the first to get a degree in my family
+  - 2 generations, from selling tortillas to writing software, god damn
 - Intro to C is boring as hell bc it's online, it's basically tutorial hell
 - Professors suck, wonder if there's a way to replace the shitty ones 
 
