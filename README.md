@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Former 🪟 user, former 🍎 user, now a 🪟 warrior. Former comfy 👖 user, former skinny 👖 user, now a comfy 👖 user. In tech and trousers, I've come full 🔴.
+
+
+
 <!--
 **francistopher/francistopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
